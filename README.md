@@ -6,14 +6,14 @@ logged into a CSV file for historical analysis. This project offers a resource-e
 administrators, developers, and Linux users to track system health without relying on heavy GUI-based tools.
 
 # Core Components
-  cpu_usage() – Shows CPU usage per core.
-  memory_usage() – Displays RAM usage.
-  disk_usage() – Lists storage usage.
-  top_processes() – Lists top CPU and memory consuming processes.
-  network_stats() – Shows IP addresses and data transfer.
-  user_activity() – Displays logged-in users.
-  draw_bar() – Draws resource usage bars.
-  log_stats() – Saves metrics to CSV
+  cpu_usage() – Shows CPU usage per core.  
+  memory_usage() – Displays RAM usage.  
+  disk_usage() – Lists storage usage.  
+  top_processes() – Lists top CPU and memory consuming processes.  
+  network_stats() – Shows IP addresses and data transfer.  
+  user_activity() – Displays logged-in users.  
+  draw_bar() – Draws resource usage bars.  
+  log_stats() – Saves metrics to CSV.  
 
 # Future Enhancements
   Add alert notifications on mail.
