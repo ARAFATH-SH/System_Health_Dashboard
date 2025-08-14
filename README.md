@@ -5,7 +5,7 @@ CPU- and memory-consuming processes and presents graphical progress bars for vis
 logged into a CSV file for historical analysis. This project offers a resource-efficient solution for system
 administrators, developers, and Linux users to track system health without relying on heavy GUI-based tools.
 
-Core Components
+#Core Components
   cpu_usage() – Shows CPU usage per core.
   memory_usage() – Displays RAM usage.
   disk_usage() – Lists storage usage.
@@ -15,6 +15,6 @@ Core Components
   draw_bar() – Draws resource usage bars.
   log_stats() – Saves metrics to CSV
 
-Future Enhancements
+#Future Enhancements
   Add alert notifications on mail.
   Support customizable refresh intervals.
