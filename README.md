@@ -18,5 +18,5 @@ administrators, developers, and Linux users to track system health without relyi
   log_stats() – Saves metrics to CSV.  
 
 # Future Enhancements
-  Add alert notifications on mail.
-  Support customizable refresh intervals.
+  Add alert notifications on mail.  
+  Support customizable refresh intervals.  
