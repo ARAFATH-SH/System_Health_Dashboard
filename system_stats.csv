@@ -1,0 +1,38 @@
+ Sat Aug  9 02:38:49 AM +06 2025 
+CPU Usage: 
+
+ Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.6Gi       1.1Gi        37Mi       1.3Gi       2.1Gi
+Swap:          3.8Gi          0B       3.8Gi
+
+ Disk Usage:
+Filesystem      Size  Used Avail
+/dev/sda2        59G   12G   45G
+/dev/sr0        6.0G  6.0G     0
+
+ Top 5 CPU-consuming processes:
+    PID COMMAND         %CPU %MEM
+  15087 ps               100  0.1
+  13989 gnome-text-edit  4.7  4.2
+   2504 gnome-shell      3.3  7.2
+  13162 nautilus         1.5  4.6
+  15051 tracker-extract  0.7  0.7
+
+ Top 5 Memory-consuming processes:
+    PID COMMAND         %MEM %CPU
+   2504 gnome-shell      7.2  3.3
+  13162 nautilus         4.6  1.5
+  13989 gnome-text-edit  4.2  4.7
+   2710 gnome-software   4.1  0.2
+   3027 Xwayland         2.2  0.0
+
+ Network Stats:
+IP Address: 192.168.254.128/24
+Data Sent/Received:
+Received: 2.94 MB, Sent: 0.13 MB
+
+ Logged-in Users:
+arafath  seat0        2025-08-09 00:57 (login screen)
+arafath  tty2         2025-08-09 00:57 (tty2)
+
