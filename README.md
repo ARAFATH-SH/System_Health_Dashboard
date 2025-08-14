@@ -1,3 +1,5 @@
+# SYSTEM HEALTH DASHBOARD
+
 It is a lightweight Bash script designed to provide real-time monitoring
 of essential system performance metrics directly from the terminal. The tool displays CPU usage per core,
 memory consumption, disk usage, network statistics, and logged-in user information. It also highlights the top
